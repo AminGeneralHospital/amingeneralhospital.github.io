@@ -554,7 +554,7 @@ hr.hr1 {
 
 .services {
     width: 100%;
-    background: url('../images/Amin-General-Hospital.jpg');
+    background: url('../images/bg.png');
     padding: 75px 0;
     background-size: cover;
     background-attachment: fixed;
@@ -567,7 +567,7 @@ hr.hr1 {
     float: left;
     width: 100%;
     text-align: center;
-    color: #fff;
+    color: #e2252d;
     margin: 25px 0px;
 }
 
@@ -577,7 +577,7 @@ hr.hr1 {
 
 .serv h4 {
     font-size: 15px;
-    color: #fff;
+    color: #272361;
     font-weight: 600;
     padding: 0;
     margin: 5px 0 0;
@@ -867,7 +867,7 @@ body.clinic_version .footer .widget-title h3 {
     float: left;
     width: 100%;
     min-height: 450px;
-    background: yellow;
+    background: #272361;
 }
 
 .contact-section {
